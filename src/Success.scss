@@ -1,0 +1,45 @@
+.modal-window__ {
+  &wrapper {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  &body {
+    // width: 300px;
+    // height: 150px;
+    padding: 50px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #7A5CFA;
+
+    input {
+      font-family: 'Noto Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 46px;
+      text-align: center;
+      padding: 15px 150px;
+      border-radius: 8px;
+      border: 5px solid #7A5CFA;
+      color: #7A5CFA;
+      background-color: #FFFFFF;
+      cursor: pointer;
+      transition: all 0.2s;
+
+      &:hover {
+        background-color: #7A5CFA;
+        color: #FFFFFF;
+
+      }
+    }
+  }
+}
