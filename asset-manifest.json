@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-login-form/static/css/main.f709d3d7.css",
+    "main.js": "/react-login-form/static/js/main.7d017bbf.js",
+    "static/media/NotoSans-SemiBold.ttf": "/react-login-form/static/media/NotoSans-SemiBold.99df72e26c72877cb1f9.ttf",
+    "static/media/NotoSans-Regular.ttf": "/react-login-form/static/media/NotoSans-Regular.eae34fa8f1e0c4c6d797.ttf",
+    "static/media/Glyphter.ttf": "/react-login-form/static/media/Glyphter.cfdbc8c829c2f2126b66.ttf",
+    "index.html": "/react-login-form/index.html",
+    "main.f709d3d7.css.map": "/react-login-form/static/css/main.f709d3d7.css.map",
+    "main.7d017bbf.js.map": "/react-login-form/static/js/main.7d017bbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f709d3d7.css",
+    "static/js/main.7d017bbf.js"
+  ]
+}
